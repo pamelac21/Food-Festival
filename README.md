@@ -2,6 +2,9 @@
 (Progressive Web Applications (PWA) project)
 * Convert a web application to a PWA, optimize the app's assets for performance, set up webpack in a front-end project, and use service workers to cache assets for offline functionality.
 
+## Deployed Site
+https://pamelac21.github.io/Food-Festival/
+
 ## ISSUES
 * Improve website load time
 * Add offline functionality
