@@ -20,6 +20,7 @@
   "homepage": "https://github.com/pamelac21/Food-Festival#readme",
   "keywords": [],
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^4.46.0",
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.6.0"
