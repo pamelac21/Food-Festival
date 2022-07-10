@@ -21,17 +21,18 @@
   "homepage": "https://github.com/pamelac21/Food-Festival#readme",
   "keywords": [],
   "devDependencies": {
+    "@webpack-cli/serve": "^1.4.0",
     "file-loader": "^6.2.0",
     "image-webpack-loader": "^6.0.0",
     "webpack": "^5.73.0",
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.9.3"
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.0",
-    "save": "^2.5.0"
+    "webpack-pwa-manifest": "^4.1.1"
   }
 }
