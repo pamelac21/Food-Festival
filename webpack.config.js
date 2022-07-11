@@ -44,7 +44,7 @@ const config = {
       jQuery: 'jquery'
     }),
     new BundleAnalyzerPlugin({
-      analyzerMode: 'static', // the report outputs to an HTML file in the dist folder
+      analyzerMode: 'static'
     }),
     new WebpackPwaManifest({
       name: 'Food Event',
